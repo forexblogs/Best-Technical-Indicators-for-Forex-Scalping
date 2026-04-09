@@ -152,7 +152,7 @@ Yes. Choose a broker with:
 
 ---
 
-## Wrapping It Up
+## Conclusion
 
 Scalping doesn’t have to be stressful. Keep your charts clean and rely on a few powerful indicators like:
 - EMA
